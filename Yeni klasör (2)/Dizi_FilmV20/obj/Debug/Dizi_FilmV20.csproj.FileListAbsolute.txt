@@ -1,0 +1,13 @@
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\bin\Debug\Dizi_FilmV20.exe.config
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\bin\Debug\Dizi_FilmV20.exe
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\bin\Debug\Dizi_FilmV20.pdb
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.csproj.AssemblyReference.cache
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.frmAdmin.resources
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.frmGiris.resources
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.frmKayit.resources
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.frmKullanici.resources
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.Properties.Resources.resources
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.csproj.GenerateResource.cache
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.csproj.CoreCompileInputs.cache
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.exe
+C:\Users\ruken\source\repos\Dizi_FilmV20\Dizi_FilmV20\obj\Debug\Dizi_FilmV20.pdb
