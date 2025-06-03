@@ -6,7 +6,7 @@
 
 ### Proje Linki
 
-[GitHub Repository](https://github.com/rukenkaracol/DiziTakip)
+
 
 ---
 
@@ -31,7 +31,6 @@ Bu proje, kullanıcıların izledikleri dizi ve filmleri takip edebileceği bir 
 * Üye olmayanlar "Kayıt Ol" butonuyla hesap oluşturabilir.
 * Admin kullanıcılar içerik yönetimi yetkisine sahiptir.
 
-![frmGiris](attachment\:file-Kpphp6NVAjcs9gNDjPjRbB)
 
 ---
 
@@ -41,7 +40,7 @@ Bu proje, kullanıcıların izledikleri dizi ve filmleri takip edebileceği bir 
 * Kullanıcılar sadece kendi izleme geçmişini görebilir.
 * İzleme durumu: "İzliyor", "Tamamlandı", "Bırakıldı".
 
-![frmKullanici](attachment\:file-DTFygs7CvbyxEUuiPQtcAH)
+
 
 ---
 
@@ -50,7 +49,7 @@ Bu proje, kullanıcıların izledikleri dizi ve filmleri takip edebileceği bir 
 * Yeni içerik eklenebilir, güncellenebilir veya silinebilir.
 * Tüm içerikler ContentID’ye göre görüntülenebilir.
 
-![frmAdmin](attachment\:file-UKiG2Qo5jQbmbTT9Sy45yx)
+
 
 ---
 
@@ -63,14 +62,5 @@ Bu proje, kullanıcıların izledikleri dizi ve filmleri takip edebileceği bir 
 * `WatchRecords`
 
 Bu tablolar arasında ilişkiler bulunmaktadır.
-![Veritabanı Şeması](attachment\:file-KdyJyZXeNy98144MPf63co)
 
----
 
-### İş Kuralları
-
-1. Kayıtsız kullanıcılar sadece içerikleri görüntüleyebilir.
-2. Kayıtlı kullanıcılar içerik ekleyip puan verebilir.
-3. İçerikler bir kez puanlanabilir, puan güncellenebilir.
-4. Kullanıcılar sadece kendi geçmişini görebilir.
-5. Silinen içerikler tüm geçmişten kaldırılır.
